@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Contact
+title: Contact - William Paulson
+description: 
 permalink: /contact
 ---
 

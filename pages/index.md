@@ -1,6 +1,7 @@
 ---
 title: William Paulson
 layout: default
+description: Wiliam Paulson is a student with a love for technology, politics, design, and making ideas real.
 permalink: /
 ---
 

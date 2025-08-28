@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Blog
+title: Blog - William Paulson
+description: 
 permalink: /blog
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: About - William Paulson
+description: 
 permalink: /about
 ---
 
