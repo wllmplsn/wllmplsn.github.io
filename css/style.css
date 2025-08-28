@@ -111,8 +111,8 @@ header {
 
 body {
     margin-left: 16x;
-    background-color: black;
-    background: black url(/assets/images/header-tile.png) scroll repeat-x 0 0;
+    background-color: hsl(0, 0%, 10%);
+    background: hsl(0, 0%, 10%) url(/assets/images/header-tile.png) scroll repeat-x 0 0;
     margin-top: 8px;
     margin-right: 16px;
     color: white;
@@ -123,7 +123,7 @@ body {
 body.dark-mode {
     background-color: white;
     background: white url(/assets/images/header-tile.png) scroll repeat-x 0 0;
-    color: black;
+    color: hsl(0, 0%, 10%);
 }
 
 main {
@@ -235,7 +235,7 @@ samp {
 
 /* Dark mode overrides */
 body.dark-mode #darkToggle {
-    --btn-bg: black;
+    --btn-bg: hsl(0, 0%, 10%);
     --btn-fg: white;
 }
 
