@@ -110,7 +110,7 @@ header {
 }
 
 body {
-    margin-left: 16x;
+    margin-left: 0;
     background-color: hsl(0, 0%, 10%);
     background: hsl(0, 0%, 10%) url(/assets/images/header-tile.png) scroll repeat-x 0 0;
     margin-top: 8px;
@@ -199,10 +199,21 @@ main {
 
 
 footer {
+    background-color: hsl(0, 0%, 10%);
     position: fixed;
     width: 100%;
-    margin: 16px;
+    margin: 0;
     bottom: 0;
+    left: 0;
+}
+
+body.dark-mode footer {
+    background-color: white;
+}
+
+footer p {
+    margin: 16px;
+
 }
 
 a {
