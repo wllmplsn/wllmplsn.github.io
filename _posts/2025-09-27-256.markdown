@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "256 - William Paulson"
+date:   2025-09-27 00:00:00 -0400
+---
+Super quick photography thing! Repurposed old photos and made the all 8 colors and 256x256.
+
+Perhaps obviously, there is a red, green, and blue theme.
+
+|![A sunset on the beach](/assets/images/256-1.png "Sunset")|![An American Flag hanging in the woods](/assets/images/256-2.png "Flag") | ![A mountain rising above the sea](/assets/images/256-3.png "Mountain")|
+|![An apple on a table](/assets/images/256-4.png "Apple")|![A creek running through a forest, through various large rocks](/assets/images/256-5.png "Rocks")|![A sailboat on the water](/assets/images/256-6.png "Sailboat")|
+|![A series of glass sculptures](/assets/images/256-7.png "Glass")|![A small stone pagoda lantern](/assets/images/256-8.png "Stone")|![A concert washed in blue lights](/assets/images/256-9.png "Phish")|
