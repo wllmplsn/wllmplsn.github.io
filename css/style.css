@@ -250,8 +250,8 @@ samp {
 
 #darkToggle {
     position: fixed;
-    bottom: 16px;
-    right: 18px;
+    bottom: 0;
+    right: 0;
     margin: 16px;
 
     background: var(--btn-bg, white);
