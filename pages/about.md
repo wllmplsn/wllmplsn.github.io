@@ -5,4 +5,4 @@ description:
 permalink: /about
 ---
 
-It's been a weeklong dream of mine to launch this website (written 2025-8-27)
+To all colleges/employers, the views expressed here are solely my own, and I'm an open book I swear.
