@@ -133,6 +133,10 @@ main {
     max-width: 640px;
 }
 
+img {
+    width: 100%;
+}
+
 .site-nav {
     height: 100%;
     width: 128px;
